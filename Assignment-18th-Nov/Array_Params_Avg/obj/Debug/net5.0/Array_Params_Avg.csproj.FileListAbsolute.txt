@@ -1,0 +1,16 @@
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\bin\Debug\net5.0\Array_Params_Avg.exe
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\bin\Debug\net5.0\Array_Params_Avg.deps.json
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\bin\Debug\net5.0\Array_Params_Avg.runtimeconfig.json
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\bin\Debug\net5.0\Array_Params_Avg.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\bin\Debug\net5.0\Array_Params_Avg.dll
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\bin\Debug\net5.0\ref\Array_Params_Avg.dll
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\bin\Debug\net5.0\Array_Params_Avg.pdb
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.csprojAssemblyReference.cache
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.dll
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\ref\Array_Params_Avg.dll
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.pdb
+D:\Utsav\Benchmark\C#\Assignment-18th-Nov\Array_Params_Avg\obj\Debug\net5.0\Array_Params_Avg.genruntimeconfig.cache

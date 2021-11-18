@@ -1,0 +1,16 @@
+D:\Utsav\Benchmark\C#\Fibonaci_Series\bin\Debug\net5.0\Fibonaci_Series.exe
+D:\Utsav\Benchmark\C#\Fibonaci_Series\bin\Debug\net5.0\Fibonaci_Series.deps.json
+D:\Utsav\Benchmark\C#\Fibonaci_Series\bin\Debug\net5.0\Fibonaci_Series.runtimeconfig.json
+D:\Utsav\Benchmark\C#\Fibonaci_Series\bin\Debug\net5.0\Fibonaci_Series.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\Fibonaci_Series\bin\Debug\net5.0\Fibonaci_Series.dll
+D:\Utsav\Benchmark\C#\Fibonaci_Series\bin\Debug\net5.0\ref\Fibonaci_Series.dll
+D:\Utsav\Benchmark\C#\Fibonaci_Series\bin\Debug\net5.0\Fibonaci_Series.pdb
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.csprojAssemblyReference.cache
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.dll
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\ref\Fibonaci_Series.dll
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.pdb
+D:\Utsav\Benchmark\C#\Fibonaci_Series\obj\Debug\net5.0\Fibonaci_Series.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Utsav\Benchmark\C#\Switch_Month\bin\Debug\net5.0\Switch_Month.exe
+D:\Utsav\Benchmark\C#\Switch_Month\bin\Debug\net5.0\Switch_Month.deps.json
+D:\Utsav\Benchmark\C#\Switch_Month\bin\Debug\net5.0\Switch_Month.runtimeconfig.json
+D:\Utsav\Benchmark\C#\Switch_Month\bin\Debug\net5.0\Switch_Month.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\Switch_Month\bin\Debug\net5.0\Switch_Month.dll
+D:\Utsav\Benchmark\C#\Switch_Month\bin\Debug\net5.0\ref\Switch_Month.dll
+D:\Utsav\Benchmark\C#\Switch_Month\bin\Debug\net5.0\Switch_Month.pdb
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\Switch_Month.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\Switch_Month.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\Switch_Month.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\Switch_Month.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\Switch_Month.dll
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\ref\Switch_Month.dll
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\Switch_Month.pdb
+D:\Utsav\Benchmark\C#\Switch_Month\obj\Debug\net5.0\Switch_Month.genruntimeconfig.cache

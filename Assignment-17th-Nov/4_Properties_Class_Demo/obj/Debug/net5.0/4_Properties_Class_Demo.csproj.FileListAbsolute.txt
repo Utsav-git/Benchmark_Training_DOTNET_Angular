@@ -1,0 +1,15 @@
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\bin\Debug\net5.0\4_Properties_Class_Demo.exe
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\bin\Debug\net5.0\4_Properties_Class_Demo.deps.json
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\bin\Debug\net5.0\4_Properties_Class_Demo.runtimeconfig.json
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\bin\Debug\net5.0\4_Properties_Class_Demo.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\bin\Debug\net5.0\4_Properties_Class_Demo.dll
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\bin\Debug\net5.0\ref\4_Properties_Class_Demo.dll
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\bin\Debug\net5.0\4_Properties_Class_Demo.pdb
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\4_Properties_Class_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\4_Properties_Class_Demo.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\4_Properties_Class_Demo.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\4_Properties_Class_Demo.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\4_Properties_Class_Demo.dll
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\ref\4_Properties_Class_Demo.dll
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\4_Properties_Class_Demo.pdb
+D:\Utsav\Benchmark\C#\4_Properties_Class_Demo\obj\Debug\net5.0\4_Properties_Class_Demo.genruntimeconfig.cache
