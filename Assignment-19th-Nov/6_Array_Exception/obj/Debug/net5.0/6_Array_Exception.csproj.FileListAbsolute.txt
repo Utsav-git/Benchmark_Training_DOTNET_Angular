@@ -1,0 +1,15 @@
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\bin\Debug\net5.0\6_Array_Exception.exe
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\bin\Debug\net5.0\6_Array_Exception.deps.json
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\bin\Debug\net5.0\6_Array_Exception.runtimeconfig.json
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\bin\Debug\net5.0\6_Array_Exception.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\bin\Debug\net5.0\6_Array_Exception.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\bin\Debug\net5.0\ref\6_Array_Exception.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\bin\Debug\net5.0\6_Array_Exception.pdb
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\6_Array_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\6_Array_Exception.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\6_Array_Exception.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\6_Array_Exception.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\6_Array_Exception.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\ref\6_Array_Exception.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\6_Array_Exception.pdb
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\6_Array_Exception\obj\Debug\net5.0\6_Array_Exception.genruntimeconfig.cache

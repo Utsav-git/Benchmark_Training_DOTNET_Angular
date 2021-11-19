@@ -1,0 +1,16 @@
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\bin\Debug\net5.0\3_Interface.exe
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\bin\Debug\net5.0\3_Interface.deps.json
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\bin\Debug\net5.0\3_Interface.runtimeconfig.json
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\bin\Debug\net5.0\3_Interface.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\bin\Debug\net5.0\3_Interface.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\bin\Debug\net5.0\ref\3_Interface.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\bin\Debug\net5.0\3_Interface.pdb
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.csprojAssemblyReference.cache
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\ref\3_Interface.dll
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.pdb
+D:\Utsav\Benchmark\C#\Assignment-19th-Nov\3_Interface\obj\Debug\net5.0\3_Interface.genruntimeconfig.cache
