@@ -1,0 +1,15 @@
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\bin\Debug\net5.0\3_UserDefined_GenericClass_Demo.exe
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\bin\Debug\net5.0\3_UserDefined_GenericClass_Demo.deps.json
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\bin\Debug\net5.0\3_UserDefined_GenericClass_Demo.runtimeconfig.json
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\bin\Debug\net5.0\3_UserDefined_GenericClass_Demo.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\bin\Debug\net5.0\3_UserDefined_GenericClass_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\bin\Debug\net5.0\ref\3_UserDefined_GenericClass_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\bin\Debug\net5.0\3_UserDefined_GenericClass_Demo.pdb
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\3_UserDefined_GenericClass_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\3_UserDefined_GenericClass_Demo.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\3_UserDefined_GenericClass_Demo.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\3_UserDefined_GenericClass_Demo.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\3_UserDefined_GenericClass_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\ref\3_UserDefined_GenericClass_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\3_UserDefined_GenericClass_Demo.pdb
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\3_UserDefined_GenericClass_Demo\obj\Debug\net5.0\3_UserDefined_GenericClass_Demo.genruntimeconfig.cache

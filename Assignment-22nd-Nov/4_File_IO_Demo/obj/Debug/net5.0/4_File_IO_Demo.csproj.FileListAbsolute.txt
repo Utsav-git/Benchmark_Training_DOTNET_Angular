@@ -1,0 +1,15 @@
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\bin\Debug\net5.0\4_File_IO_Demo.exe
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\bin\Debug\net5.0\4_File_IO_Demo.deps.json
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\bin\Debug\net5.0\4_File_IO_Demo.runtimeconfig.json
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\bin\Debug\net5.0\4_File_IO_Demo.runtimeconfig.dev.json
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\bin\Debug\net5.0\4_File_IO_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\bin\Debug\net5.0\ref\4_File_IO_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\bin\Debug\net5.0\4_File_IO_Demo.pdb
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\4_File_IO_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\4_File_IO_Demo.AssemblyInfoInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\4_File_IO_Demo.AssemblyInfo.cs
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\4_File_IO_Demo.csproj.CoreCompileInputs.cache
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\4_File_IO_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\ref\4_File_IO_Demo.dll
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\4_File_IO_Demo.pdb
+D:\Utsav\Benchmark\C#\Assignment-22nd-Nov\4_File_IO_Demo\obj\Debug\net5.0\4_File_IO_Demo.genruntimeconfig.cache

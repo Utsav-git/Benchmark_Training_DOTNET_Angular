@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "3_UserDefined_GenericClass_Demo/1.0.0": {
+        "runtime": {
+          "3_UserDefined_GenericClass_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_UserDefined_GenericClass_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
