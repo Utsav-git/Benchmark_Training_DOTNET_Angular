@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Utsav\\Benchmark\\C#\\ADO_Disconnected_Demo\\ADO_Disconnected_Demo.csproj",
+      "projectUniqueName": "D:\\Utsav\\Benchmark\\C#\\Assignment-24th-Nov\\ADO_Disconnected_Demo\\ADO_Disconnected_Demo.csproj",
       "projectName": "ADO_Disconnected_Demo",
-      "projectPath": "D:\\Utsav\\Benchmark\\C#\\ADO_Disconnected_Demo\\ADO_Disconnected_Demo.csproj",
+      "projectPath": "D:\\Utsav\\Benchmark\\C#\\Assignment-24th-Nov\\ADO_Disconnected_Demo\\ADO_Disconnected_Demo.csproj",
       "packagesPath": "C:\\Users\\uddha\\.nuget\\packages\\",
-      "outputPath": "D:\\Utsav\\Benchmark\\C#\\ADO_Disconnected_Demo\\obj\\",
+      "outputPath": "D:\\Utsav\\Benchmark\\C#\\Assignment-24th-Nov\\ADO_Disconnected_Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uddha\\AppData\\Roaming\\NuGet\\NuGet.Config",
