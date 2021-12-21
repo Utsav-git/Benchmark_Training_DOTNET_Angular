@@ -1,0 +1,14 @@
+<div>
+  <h2>Division Pipe</h2>
+
+  <p>Numerator:</p>
+  <input type="number" [(ngModel)]="a" />
+
+  <p>Denomianator:</p>
+  <input type="number" [(ngModel)]='b' />
+
+  <p>Numerator:{{a}}</p>
+  <p>Denominator:{{b}}</p>
+
+  <p>Divison: {{a | divisionPipe: b}}</p>
+</div>
